@@ -1,6 +1,6 @@
 # Musicsy
 
-> It's like Spotify Premium but without all the premium features and not necessarily legal
+> Implementation of music streaming service built with NuxtJS, NodeJS and MongoDB
 
 ## Build Setup
 
@@ -20,8 +20,3 @@ $ npm start
 
 Go to [localhost:3000](localhost:3000)
 
-## Contributing
-Don't.
-
-## License
-What License?
